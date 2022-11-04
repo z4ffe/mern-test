@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 50px auto;
+  box-sizing: border-box;
+  width: 800px;
+  height: 600px;
+  background-color: cadetblue;
+  background: -webkit-linear-gradient(90deg, #567599, #1f2e4b);
+  background: linear-gradient(90deg, #567599, #1f2e4b);
+  color: white;
+}
+
+/*# sourceMappingURL=App.module.css.map */
